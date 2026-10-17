@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Sanctuaries",
+  "description": "Curated architectural stays, luxury retreats, and bespoke expedition itineraries with multi-screen mobile and canvas views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
